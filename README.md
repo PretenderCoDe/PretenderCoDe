@@ -5,8 +5,8 @@
 ⠀⠀⠀⠀⢀⠞⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣄ <br>
 ⠀⠀⠀⠀⡞⠀⠀⠀⠀⠀⠶⠀⠀⠀⠀⠀⠀⠦⠀⠀⠀⠀⠀⠸⡆ <br>
 
-▸ 𑁊^. .^𑁊♩ <br>
-▸ ^ ̳ᴗ ̫ ᴗ ̳^♡ <br>
+▸ Tech Stack <br>
+▸ Java, Python, PHP, HTML5, CSS3, JSON, TypeScript, JavaScript, Kotlin, C#, jQuery, Servlet, JSP <br>
 
 
 <!--
