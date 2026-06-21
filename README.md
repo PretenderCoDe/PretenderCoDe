@@ -5,7 +5,7 @@
 ⠀⠀⠀⠀⢀⠞⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣄ <br>
 ⠀⠀⠀⠀⡞⠀⠀⠀⠀⠀⠶⠀⠀⠀⠀⠀⠀⠦⠀⠀⠀⠀⠀⠸⡆ <br>
 
-▸ Tech Stack <br>
+▸ **Tech Stack** <br>
 
 ## 🛠️ Skills & Technologies
 
@@ -23,9 +23,9 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-> **Proficient:** Java, Python, PHP, HTML5, CSS3, JSON
-> **Advanced:** TypeScript, JavaScript, Kotlin, C#, jQuery, Servlet, JSP
-> **Intermediate:** C, C++
+> ▸**Proficient:** Java, Python, PHP, HTML5, CSS3, JSON <br>
+> ▸**Advanced:** TypeScript, JavaScript, Kotlin, C#, jQuery, Servlet, JSP <br>
+> ▸**Intermediate:** C, C++ <br>
 
 ---
 
@@ -37,7 +37,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.dot-js&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-*Also experienced with: Word2Vec*
+<br> *Also experienced with: Word2Vec*
 
 ---
 
@@ -45,13 +45,13 @@
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-*Specialties: Speech-to-Text, Text-to-Speech*
+<br> *Specialties: Speech-to-Text, Text-to-Speech*
 
 ---
 
 ### 🗄️ Databases & Infrastructure
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-*Database Design • XAMPP • CRUD Design • CI/CD Workflows*
+<br> *Database Design • XAMPP • CRUD Design • CI/CD Workflows*
 
 ---
 
@@ -64,7 +64,7 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=black)
 
-*Also proficient in: Google Colab, CPN IDE, MS Office (Word, Excel, Access)*
+<br> *Also proficient in: Google Colab, CPN IDE, MS Office (Word, Excel, Access)*
 
 ---
 
